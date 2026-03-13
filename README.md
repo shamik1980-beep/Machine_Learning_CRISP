@@ -8,4 +8,6 @@ End to end implementation of ML Project using CRISP Methods
 
 1. This Project describes how model can predict crime detection based on dataset
 2. This Project is implemented using Python Jupyter Notebook IDE
+3. This Project follows CRISP DM Software Engineering Technique
+4. Dataset used in this project is publicly available. 
 
